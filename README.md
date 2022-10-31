@@ -1,2 +1,2 @@
-# simple-calculator-vb6
-A simple Calculator using VB6
+# Simple Calculator VB6
+A simple calculator using VB6 in preparation for other upcoming projects 
